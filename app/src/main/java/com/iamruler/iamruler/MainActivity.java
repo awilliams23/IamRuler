@@ -1,4 +1,4 @@
-package com.truruler.truruler;
+package com.iamruler.iamruler;
 
 import android.content.Intent;
 import android.net.Uri;
