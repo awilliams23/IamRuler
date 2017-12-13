@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">IamRuler</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--PREFERENCES -->
+    <string name="pref_title_measure_mode">Change measurement preference</string>
+    <string-array name="pref_measure_type">
+        <item>Standard</item>
+        <item>Metric</item>
+    </string-array>
+    <string-array name="pref_measure_list_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+
+    <string name="no_todos">Currently there are measurements saved.</string>
+    <string name="menu_insert">Add Item</string>
+    <string name="menu_delete">Delete Measurement</string>
+    <string name="todo_summary">Summary</string>
+    <string name="todo_description">Delete Measurement</string>
+    <string name="todo_edit_summary">Summary</string>
+    <string name="todo_edit_description">Description</string>
+    <string name="todo_edit_confirm">Confirm</string>
+
+    <!--NAV BAR NAMES -->
+    <string name="nav_title_calibrate">Calibrate</string>
+    <string name="nav_title_new_measure">View Saved Measurements</string>
+    <string name="nav_title_gallery">Gallery</string>
+    <string name="nav_title_edit_photo">Edit a Photo</string>
+    <string name="nav_title_tools">Tools</string>
+    <string name="nav_title_take_photo">Take a Photo</string>
+    <string name="nav_title_send">Send</string>
+
+
+    <!--measurement-->
+    <string name="save">Save</string>
+
+
+</resources>
